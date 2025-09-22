@@ -21,23 +21,7 @@ Hover over each point to see the corresponding **gene label**. Genes are color-c
 ## Data Availability
 
 - **Raw RNA-seq data**: deposited in GEO under accession **GSEXXXXXX** (to be updated).  
-- **Interactive visualizations & code**: available in this GitHub repository.  
-- **Permanent archival copy**: (optional, Zenodo DOI once minted).
 
 ---
 
-## Citation
 
-If you use these visualizations or data in your work, please cite:  
-
-> Salmonella Typhimurium Human Challenge Study (CHANTS) – RNA-seq comparison of D23580 (ST313) and 4/74 (ST19). GitHub repository: [https://github.com/Adalijuanluo/CHANTS_RNAseq](https://github.com/Adalijuanluo/CHANTS_RNAseq).
-
----
-
-## Contact
-
-For questions, please contact:  
-**Yong Zhao**  
-Lecturer & ARC DECRA Fellow  
-School of Engineering, University of Newcastle  
-Email: *[your email here]*  
