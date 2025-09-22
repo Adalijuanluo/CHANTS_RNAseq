@@ -1,10 +1,11 @@
-# Salmonella Typhimurium Human Challenge Study (CHANTS)
+# CHANTS – **RNA-seq Analysis of HCO₃ treatment (0 vs 30 min)**
 
-**RNA-seq comparison of two Salmonella Typhimurium strains:**  
+**Salmonella Typhimurium Human Challenge Study (CHANTS): RNA-seq dataset and interactive analysis**  
 - **D23580 (ST313)**  
 - **4/74 (ST19)**  
 
-This repository contains interactive visualizations of RNA-seq data from the CHANTS study. The volcano plots highlight differentially expressed genes following **HCO₃⁻ treatment (0 minutes vs 30 minutes)** for each strain.
+This repository provides interactive volcano plots for **within-strain differential expression**, comparing **HCO₃ treatment at 0 minutes vs 30 minutes**.  
+It represents a focused RNA-seq dataset from the broader CHANTS study.
 
 ---
 
