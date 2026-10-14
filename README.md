@@ -20,7 +20,7 @@ Hover over each point to see the corresponding **gene label**. Genes are color-c
 
 ## Data Availability
 
-- **Raw RNA-seq data**: deposited in GEO under accession **GSEXXXXXX** (to be updated).  
+- **Raw RNA-seq data**: deposited in GEO under accession **GSM9256045 to GSM9256056** (to be updated).  
 
 ---
 
